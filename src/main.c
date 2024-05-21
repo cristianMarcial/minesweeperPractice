@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-    printf("hellolmao");
+    printf("hellolmao idx google");
     return 0;
 }
